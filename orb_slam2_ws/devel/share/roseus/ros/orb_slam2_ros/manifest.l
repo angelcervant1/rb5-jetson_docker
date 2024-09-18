@@ -1,1 +1,1 @@
-/ros_ws/orb_slam2_ws/devel/.private/orb_slam2_ros/share/roseus/ros/orb_slam2_ros/manifest.l
+/ros_ws/orb_slam2_ws copy/devel/.private/orb_slam2_ros/share/roseus/ros/orb_slam2_ros/manifest.l

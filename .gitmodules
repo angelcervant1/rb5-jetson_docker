@@ -1,0 +1,12 @@
+[submodule "Pangolin"]
+  path = /ros_ws/Pangolin
+  url = https://github.com/stevenlovegrove/Pangolin.git
+
+[submodule "rb5_melodic"]
+  path = /ros_ws/rb5-flight-summer-dev_ws
+  url = https://github.com/angelcervant1/rb5-flight-summer-dev_ws.git
+
+[submodule "ros_ardrone"]
+  path = /ros_ws/ros_ardrone
+  url = https://github.com/mmyself/ros_ardrone.git
+

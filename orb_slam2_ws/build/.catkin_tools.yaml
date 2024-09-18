@@ -1,0 +1,6 @@
+devel_space: /ros_ws/orb_slam2_ws/devel
+install: false
+install_space: /ros_ws/orb_slam2_ws/install
+profile: default
+source_space: /ros_ws/orb_slam2_ws/src
+workspace: /ros_ws/orb_slam2_ws

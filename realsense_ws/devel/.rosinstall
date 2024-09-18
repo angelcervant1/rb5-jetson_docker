@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /ros_ws/realsense_ws/devel/setup.sh

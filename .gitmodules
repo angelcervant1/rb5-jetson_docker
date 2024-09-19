@@ -9,3 +9,8 @@
 [submodule "Pangolin"]
 	path = Pangolin
 	url = https://github.com/stevenlovegrove/Pangolin.git
+
+[submodule "natnet_ros_cpp"]
+  path = rb5-flight-summer-dev_ws/rb5_flight/src/natnet_ros_cpp
+  url = https://github.com/L2S-lab/natnet_ros_cpp.git
+

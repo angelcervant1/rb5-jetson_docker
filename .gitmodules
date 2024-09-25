@@ -10,4 +10,8 @@
 	path = Pangolin
 	url = https://github.com/stevenlovegrove/Pangolin.git
 
+[submodule "rb5_vision"]
+	path = rb5_vision
+	url = https://github.com/angelcervant1/rb5_vision
+
 

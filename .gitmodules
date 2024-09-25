@@ -1,6 +1,7 @@
 [submodule "rb5-flight-summer-dev_ws"]
   path = rb5-flight-summer-dev_ws
   url = https://github.com/angelcervant1/rb5-flight-summer-dev_ws.git
+  branch = main
 
 [submodule "ros_ardrone"]
   path = ros_ardrone
@@ -13,5 +14,6 @@
 [submodule "rb5_vision"]
 	path = rb5_vision
 	url = https://github.com/angelcervant1/rb5_vision
+  branch = main
 
 

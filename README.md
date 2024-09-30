@@ -8,6 +8,14 @@ This repository provides a collection of programs designed to implement and oper
 
 To ensure seamless deployment in any environment a Dockerfile was added to the repo to facilitate the process of running each program.
 
+## Hardware and Tech Stack 
+
+- Jetson NX Board
+- Qualcomm RB5 Drone
+- Turtlebot
+- Optitrack MoCap
+
+  
 ## Academic Paper
 Take a look to the full explanation of the project!.
 

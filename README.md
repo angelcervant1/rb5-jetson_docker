@@ -16,7 +16,7 @@ To ensure seamless deployment in any environment a Dockerfile was added to the r
 - Optitrack MoCap
   
 ## Academic Paper
-Take a look to the my Paper about the project!.
+Take a look to the my Paper about the project! (work in progress).
 [Target Detection and Localization with Mobile Vision Sensors](https://github.com/angelcervant1/rb5-jetson_docker/edit/main/README.md)
 
 ## Acknowledgements
